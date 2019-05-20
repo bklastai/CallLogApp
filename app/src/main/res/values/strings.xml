@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CallLogApp</string>
+
+    <string name="no_call_logs_detected">No call logs detected.</string>
+    <string name="error_swipe_to_refresh">Update failed, swipe down to refresh.</string>
+    <string name="call_logs_permission_rational">Your permission is required and display the device\'s call logs. Click to give the permission.</string>
+    <string name="updated">Updated!</string>
+</resources>
